@@ -1,0 +1,13 @@
+
+html {
+	background-color: black;
+	text-align: center;
+}
+h1 {
+	font-weight: bold;
+	font-style: italic;
+	color: white;
+}
+p {
+	color: white;
+}
